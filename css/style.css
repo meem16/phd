@@ -301,8 +301,9 @@ a, a:hover{
 
 .eye-cather{
 	width: 100%;
-	padding: 35px 0px 0px;
+	padding: 50px 0px 0px;
 	background: #15141a;
+
 }
 .eye-cather h1{
 	font-size: 32px;
@@ -318,6 +319,7 @@ a, a:hover{
 .eye-cather .action-buttons{
 	width: 100%;
 	padding: 0px 0px 0px;
+	margin: 0px 0px 25px;
 }
 .eye-cather .action-buttons .btn-primary{
 	display: inline-block;
